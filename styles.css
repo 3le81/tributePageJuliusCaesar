@@ -1,0 +1,137 @@
+body {
+    background: black;
+    color: white;
+    margin: 5px;
+  }
+  
+  #main {
+    font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", "Roboto",
+      "Helvetica Neue", Arial, sans-serif;
+    font-size: 1.3rem;
+    line-height: 1.5;
+    display: block;
+    margin: 30px 8px;
+    padding: 15px;
+    border-radius: 5px;
+    text-align: center;
+  }
+  
+  
+  h1 {
+    font-size: 4rem;
+    margin-bottom: 0;
+    display: block;
+    margin-block-start: 0.67em;
+    margin-block-end: 0.67em;
+    margin-inline-start: 0px;
+    margin-inline-end: 0px;
+    font-weight: bold;
+  }
+  
+  img {
+    max-width: 100%;
+    display: block;
+    height: auto;
+    margin: 0 auto;
+  }
+  
+  #img-caption {
+      font-size: 12px;
+      margin-top: -10px;
+  }
+  
+  section {
+    display: block;
+  }
+  
+  #headline {
+    margin: 50px 0;
+    text-align: center;
+  }
+  
+  ul {
+    max-width: 900px;
+    margin: 0 auto 50px auto;
+    text-align: left;
+    line-height: 1.6;
+    display: block;
+    list-style-type: disc;
+    margin-block-start: 1em;
+    margin-block-end: 1em;
+    margin-inline-start: 0px;
+    margin-inline-end: 0px;
+    padding-inline-start: 40px;
+  }
+  
+  li {
+    margin: 16px 0;
+    display: list-item;
+    text-align: -webkit-match-parent;
+  }
+  
+  strong {
+    color:rgb(251, 254, 53);
+  }
+  
+  h3 {
+    display: block;
+    font-size: 1.17em;
+    margin-block-start: 1em;
+    margin-block-end: 1em;
+    margin-inline-start: 0px;
+    margin-inline-end: 0px;
+    font-weight:bold;
+    color:rgb(251, 254, 53);
+  }
+  
+  
+  p {
+    display: block;
+    margin-block-start: 1em;
+    margin-block-end: 1em;
+    margin-inline-start: 0px;
+    margin-inline-end: 0px;
+  }
+  
+  
+  blockquote {
+    font-style: italic;
+    max-width: 545px;
+    margin: 50px auto 50px auto;
+    text-align: center;
+    color:rgb(251, 254, 53);
+    text-shadow: 1.5px lightseagreen;
+    display: block;
+  }
+  
+  
+  #cite {
+  
+    font-style: italic;
+  }
+  
+  .tribute_link {
+    margin-left : 30px;
+    font-size: 25px;
+    text-align:left;
+    margin-bottom: 80px;
+    }
+  
+  #tribute-link {
+    color:rgb(199, 202, 29);
+  }
+  
+  #tribute-link:hover {
+    color: red;
+  }
+  
+  footer {
+    display: block;
+    text-align: center;
+    font-size: larger;
+    font-family: monospace;
+    color : whitesmoke;
+    margin-bottom: 15px;
+  }
+  
+  
